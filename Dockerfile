@@ -11,7 +11,7 @@ ENV PATH="/aadharmasking/bin:$PATH"
 
 COPY . .
 
-ENV FLASK_APP=run.py
+ENV FLASK_APP=app.py
 ENV FLASK_ENV=production
 
 EXPOSE 5041
