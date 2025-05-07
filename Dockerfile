@@ -16,4 +16,4 @@ ENV FLASK_ENV=production
 
 EXPOSE 5041
 
-CMD ["python", "run.py"]
+CMD ["python", "app.py"]
