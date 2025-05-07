@@ -1,5 +1,5 @@
 
-from application_300425 import AadhaarMasking
+from application import AadhaarMasking
 import paddle
 import os
 
